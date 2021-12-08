@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap');
+
+.btn-1 {
+    border-radius: 30px;
+    outline: none;
+    padding: 16px 30px;
+    margin: 0;
+    position: absolute;
+    left: 45%;
+    top: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: solid 1px blue;
+    color: blue;
+    transition: all 0.3s;
+    font-family: 'Source Sans Pro', sans-serif
+}
+
+.btn-1:hover {
+    background-color: rgb(36, 2, 190);
+    color: white;
+    
+}
+
+.border1 {
+    background-color: gray;
+    display: block;
+    height: 300px;
+    width: 100px;
+}
+
+.btn-2 {
+    border-radius: 30px;
+    outline: none;
+    padding: 16px 30px;
+    margin: 0;
+    position: absolute;
+    right: 56%;
+    top: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: blue;
+    color: blue;
+    transition: all 0.3s;
+    border: none;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif
+}
+
+.btn-2:hover {
+    background-color: rgb(13, 0, 71);
+    color: white;
+    
+}
+
+.border {
+    background-color: rgb(1, 141, 255);
+    display: block;
+    height: 2px;
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    right: 0%;
+}
+
+.ROBLOX {
+    font-family: 'Source Sans Pro', sans-serif;
+    position: absolute;
+    left: 42%;
+    top: 10%;
+    color: rgb(0, 0, 0);
+}
+
+* {
+    background-color: rgb(235, 235, 235);
+}
+
+.ROBLOX2 {
+    font-size: 150%;
+    font-family: 'Source Sans Pro', sans-serif;
+    height: 700px;
+    width: 600px;
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    background-color: white;
+}
+
+.ROBLOX3 {
+    position: absolute;
+    height: 350px;
+    width: 400px;
+    background-color: white;
+    left: 34%;
+    top: 100%;
+    font-size: 2rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.footer {
+    display: block;
+    background-color: rgb(39, 39, 39);
+    height: 400px;
+    width: 1850px;
+    position: absolute;
+    top: 150%;
+}
+
+.h1-1 {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(39, 39, 39);
+    position: absolute;
+    left: 42%;
+    margin: 0;
+    padding: 0;
+}
+
+.pro {
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(39, 39, 39);
+    position: absolute;
+    left: 33%;
+    margin: 0;
+    padding: 0;
+    top: 20%;
+    height: 400px;
+    width: 500px;
+    font-size: 2rem;
+}
